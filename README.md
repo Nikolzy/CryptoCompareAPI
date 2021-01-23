@@ -1,4 +1,6 @@
-# project
+# [**CryptoCompare**](https://min-api.cryptocompare.com/)
+
+[**Deploy link**](https://nikolzy.github.io/CryptoCompareAPI/)
 
 ## Project setup
 ```
